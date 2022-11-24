@@ -23,4 +23,9 @@ git remote remove origin
 git remote add origin https://davidindata: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@github.com/DavidInData/MSDS_experiment.git
 vi test2.py
 
+git add test2.py
+git commit -m "commit"
+git push -u origin main
+
 The repository for this demo is https://github.com/DavidInData/MSDS_AWS
+
